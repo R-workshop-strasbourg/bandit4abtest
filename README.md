@@ -1,4 +1,4 @@
-# R-CTree-UCB
-R package CTree-UBC algorithm
+This repo is no longer active
 
-Everything will come soon in this README.md
+Go to the https://github.com/manuclaeys/bandit4abtest
+for the last version
